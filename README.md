@@ -1,5 +1,5 @@
-# SVG Logo
-Unofficial SVG for lazy goggling purpose, File will remain untouch as possible including file's name.
+# Stack Logo
+Unofficial random stack logo as SVG for lazy goggling purpose, File will remain untouch as possible including file's name.
 
 # Preview
 - [ ] TODO : Auto preview here, just clone it and do local preview for workaround sry! ;)
