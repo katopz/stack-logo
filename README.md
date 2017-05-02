@@ -4,6 +4,10 @@ Unofficial random stack logo as SVG for lazy goggling purpose, File will remain 
 # Preview
 - [ ] TODO : Auto preview here, just clone it and do local preview for workaround sry! ;)
 
+# Others
+- https://github.com/danleech/simple-icons
+- https://github.com/gilbarbara/logos
+
 # Referrence
 - [GitHub](https://github.com/logos)
 - [Docker](https://www.docker.com/brand-guidelines)
